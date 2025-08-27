@@ -3,7 +3,7 @@ Deletes unwanted topics from sight in bitcointalk
 
 It is a TamperMonkey script which lets you evaporate certain forum rats which you don't like.  I made this because the forum's own ignore button isn't working well enough.
 
-Once you run both scripts, you won't see the topics they've created, you won't see any spam posts they've made. It is total obliteration. One might even call that a genocide.
+Once you run both scripts (the other one is post cleaner), you won't see the topics they've created, you won't see any spam posts they've made. It is total obliteration. One might even call that a genocide.
 
 How?
 
